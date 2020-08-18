@@ -32,6 +32,8 @@ macOS High Sierra or higher:
   * mkdir -p /System/Volumes/Data/data/db
   * mongod --dbpath /System/Volumes/Data/data/db
   
+The data required for this project can be accessed [here](https://drive.google.com/drive/folders/1eIKizQOROuz-dF5icmGT8EmILLoKLGOg?usp=sharing)
+  
  
 Running scripts:
 1. Create an empty directory called "graphsAndFigures"
