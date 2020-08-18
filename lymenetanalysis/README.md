@@ -56,7 +56,7 @@ Running scripts:
 
 
 #CODEBASE DESCRIPTION WORK SAMPLE
-* I have documented the Topic Similarity Algorithm in the PDF report, this algorithm is implemented in ```topic_similarity.py```
+* I have documented the Topic Similarity Algorithm in the PDF [report](https://github.com/Aditya9517/Lymenet-Analysis/blob/master/LymeNetReport_AdityaJayanti.pdf), this algorithm is implemented in ```topic_similarity.py```
 * Files to consider
 ```
 LDATopicModeling.py
